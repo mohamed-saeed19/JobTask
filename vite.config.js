@@ -5,13 +5,13 @@ import path from "path";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-base:"/jobTask2/"
-  // resolve: {
-  //   alias: {
-  //     "@": path.resolve(__dirname, "src"),
-  //     "@components": path.resolve(__dirname, "components"),
-  //     "@pages": path.resolve(__dirname, "pages"),
-  //     "@assets": path.resolve(__dirname, "assets"),
-  //   },
-  // },
+base:"/jobTask2/",
+  resolve: {
+    alias: {
+      "@": path.resolve(__dirname, "src"),
+      "@components": path.resolve(__dirname, "components"),
+      "@pages": path.resolve(__dirname, "pages"),
+      "@assets": path.resolve(__dirname, "assets"),
+    },
+  },
 });
