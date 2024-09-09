@@ -1,0 +1,108 @@
+.containr2{
+  background: var(--BRAND-EMERALD, #024644);
+}
+.first1{
+  text-align: center;
+font-feature-settings: 'liga' off, 'clig' off;
+font-family: Lato;
+font-size: 70px;
+font-style: normal;
+font-weight: 300;
+/* line-height: 140px;  */
+/* 145.833% */
+text-transform: lowercase;background: var(--GOLD-GRADIENT, linear-gradient(127deg, #D7914E 0%, #FFE2B4 30.73%, #FDAE62 71.37%, #FEC973 100.02%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.midle{
+  color: var(--SILVER-2, #F2F2F2);
+font-feature-settings: 'liga' off, 'clig' off;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 300;
+line-height: 120%; 
+/* 28.8px */
+}
+.Nurturing{
+  background: var(--GOLD-GRADIENT, linear-gradient(127deg, #D7914E 0%, #FFE2B4 30.73%, #FDAE62 71.37%, #FEC973 100.02%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-feature-settings: 'liga' off, 'clig' off;
+font-family: "Cormorant Garamond";
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: 110%; 
+}
+.Believe{
+  color: var(--SILVER-2, #F2F2F2);
+font-feature-settings: 'liga' off, 'clig' off;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 300;
+line-height: 120%;
+}
+.Nurturing2{
+  background: var(--GOLD-GRADIENT, linear-gradient(127deg, #D7914E 0%, #FFE2B4 30.73%, #FDAE62 71.37%, #FEC973 100.02%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-feature-settings: 'liga' off, 'clig' off;
+font-family: "Cormorant Garamond";
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: 110%; 
+}
+
+.hedar2{
+  background: linear-gradient(0deg, rgba(2, 70, 68, 0.10) 0%, rgba(2, 70, 68, 0.10) 100%), url(../../images/boat.png) lightgray -265.255px 0px / 127.631% 100.245% no-repeat;
+  background-size:cover;
+  background-position:center;
+  height: 100vh;
+}
+.wealth{
+  text-align: center;
+font-feature-settings: 'liga' off, 'clig' off;
+font-family: "Lato";
+font-size: 45px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+text-transform: capitalize;
+background: var(--GOLD-GRADIENT, linear-gradient(127deg, #D7914E 0%, #FFE2B4 30.73%, #FDAE62 71.37%, #FEC973 100.02%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.hear{
+  font-feature-settings: 'liga' off, 'clig' off;
+font-family: "Cormorant Garamond";
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 110%; /* 39.6px */
+background: var(--GOLD-GRADIENT, linear-gradient(127deg, #D7914E 0%, #FFE2B4 30.73%, #FDAE62 71.37%, #FEC973 100.02%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.cntn{
+display: flex;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+}
+.lastpr{
+  color: var(--SILVER-2, #F2F2F2);
+font-feature-settings: 'liga' off, 'clig' off;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 300;
+line-height: 31px;
+}

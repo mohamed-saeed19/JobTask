@@ -1,0 +1,34 @@
+.contain{
+background: #F2F2F2;
+}
+.leter{
+  color: var(--BRAND-EMERALD, #024644);
+  font-feature-settings: 'liga' off, 'clig' off;
+  font-family: Lato;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 140%; /* 25.2px */
+}
+
+
+.About2{
+  color: var(--BRAND-EMERALD, #024644);
+text-align: center;
+font-feature-settings: 'liga' off, 'clig' off;
+font-family: "Cormorant Garamond";
+font-size: 60px;
+font-style: normal;
+font-weight: 300;
+line-height: 140px; 
+/* 145.833% */
+}
+.take{
+  color: var(--BRAND-EMERALD, #024644);
+font-feature-settings: 'liga' off, 'clig' off;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: 140%; 
+}
