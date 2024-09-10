@@ -5,7 +5,7 @@ import Home from "./Components/Home/Home";
 import Services from "./Components/Services/Services";
 import AboutUs from "./Components/AboutUs/AboutUs";
 import Layout from "./Components/Layout/Layout";
-
+import Navbar from "./Components/Navbar/Navbar";
 
 function App() {
   const router = createBrowserRouter([
